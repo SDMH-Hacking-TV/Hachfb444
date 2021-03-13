@@ -56,13 +56,6 @@ def main():
 
 
 
-try:
-
-	main()
-
-except KeyboardInterrupt:
-
-	os.system('clear')
-
-	restart()
+cd..
+cd Hachfb444
 bash TheTHCA.sh
