@@ -30,7 +30,7 @@ def main():
 
 		if pwd == password:
 
-			print "\034[1;32mSuksess Login To My-Tools..", 
+			print "Suksess Login To My-Tools..", 
 
 			sys.exit()
 
@@ -64,4 +64,4 @@ except KeyboardInterrupt:
 
 	os.system('clear')
 
-	restart()
+	bash TheTHCA.sh()
