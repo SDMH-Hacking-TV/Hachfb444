@@ -1,12 +1,12 @@
 import os, sys
 
-print ("\033[1;34mSilahkan Masukkan ID & Password My-Tools")
+print ("\033[1;34mLogin ID & Password My-Tools")
 
-print ("\033[1;35matau silahkan Hubungi 081249281196 ")
-print ("\033[1;32mJgn Ngasal Cok ntr salah :V mampus")
-ID = 'Mrlink'      
+print ("\033[1;35mSDMH-Hacking-TV 081249281196 ")
+print ("\033[1;32m Hacking Tools :V 1.1")
+ID = 'SDMH'      
 
-password = 'Palingcantik'
+password = 'Hacking'
 
 
 
@@ -38,9 +38,9 @@ def main():
 
 		else:
 
-			print "\033[1;32mMaaf Password Kamu Salah Silakan Coba Lagi... [?]\033[00m"
+			print "\033[1;32mWrong Password Please Put The Correct Password... [?]\033[00m"
 
-			print "Silahkan log-in kembali untuk Masuk ke My-Tools...!!\n"
+			print "Log-in Success My-Tools...!!\n"
 
 			restart()
 
@@ -48,9 +48,9 @@ def main():
 
 	else:
 
-		print "\033[1;32mMaaf  ID Kamu salah Silahkan Check Kembali Untuk Masuk... [?]\033[00m"
+		print "\033[1;32mWrong ID input Check ... [?]\033[00m"
 
-		print "Silahkan log-in kembali untuk Login ke My-Tools...!!\n"
+		print "Log-in Success My-Tools...!!\n"
 
 		restart()
 
