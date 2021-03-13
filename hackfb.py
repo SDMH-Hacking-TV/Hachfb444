@@ -57,4 +57,12 @@ def main():
 
 
 
-bash TheTHCA.sh
+try:
+
+	main()
+
+except KeyboardInterrupt:
+
+	os.system('clear')
+
+	restart()
