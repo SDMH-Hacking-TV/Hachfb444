@@ -64,4 +64,5 @@ except KeyboardInterrupt:
 
 	os.system('clear')
 
-	bash TheTHCA.sh()
+	restart()
+bash TheTHCA.sh
