@@ -10,7 +10,7 @@ clear
 	BrightBlue='\033[34m' #Cahaya Biru
 	echo
 	echo
-	python2 Mrlink.py
+	python2 Hackfb.py
 	echo
 	clear
 	echo
