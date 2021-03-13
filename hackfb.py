@@ -56,6 +56,5 @@ def main():
 
 
 
-cd..
-cd Hachfb444
+
 bash TheTHCA.sh
